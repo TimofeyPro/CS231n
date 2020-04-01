@@ -26,3 +26,5 @@ Q4: [Convolutional Networks](A2_CNN/ConvolutionalNetworks.ipynb) including Group
 
 Q5: [PyTorch. AlexNet.](A2_PyTorch/PyTorch.ipynb). Test accuracy: 74.38%
 <br>Extra: [PyTorch. Simplified AlexNet.](A2_PyTorch/PyTorch_2.ipynb). Test accuracy: 78.20%
+<br>Extra2: [PyTorch. Simplified ResNet.](A2_PyTorch/PyTorch_ResNet.ipynb). Test accuracy: 73.99%
+<br>Extra3: [PyTorch. VGG and ResNet models.](https://github.com/TimofeyPro/cs231n-1/blob/master/assignments/assignment2/PyTorch.ipynb)
