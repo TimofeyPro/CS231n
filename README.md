@@ -1,6 +1,7 @@
 # CS231n
 
-Spring 2019 assignments of [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
+Spring 2019 assignments of [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)<br>
+[Notes in Russian with additional explanations and links](https://timofey.pro/AI_ML_books#CS231n_Spring_2019). 
 
 ## Assignment #1. Image Classification on CIFAR-10: kNN, SVM, Softmax, Neural Network
 Q1: [k-Nearest Neighbor classifier](knn.ipynb). Test accuracy: 28.2%
