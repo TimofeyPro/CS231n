@@ -22,6 +22,6 @@ Q2: [Batch Normalization](A2_FC_Net/BatchNormalization.ipynb)
 Q3: [Dropout](A2_FC_Net/Dropout.ipynb)
 
 Q4: [Convolutional Networks](A2_CNN/ConvolutionalNetworks.ipynb) including Group Normalization.
-<br>Extra: [Search over parameter values](A2_FC_Net/FullyConnectedNets_Best.ipynb)
+<br>Extra: [Search by parameter values](A2_FC_Net/FullyConnectedNets_Best.ipynb)
 
 Q5: [PyTorch. AlexNet.](A2_PyTorch/PyTorch.ipynb). Test accuracy: 74.38%
