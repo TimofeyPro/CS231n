@@ -25,4 +25,4 @@ Q4: [Convolutional Networks](A2_CNN/ConvolutionalNetworks.ipynb) including Group
 <br>Extra: [Search by parameter values](A2_FC_Net/FullyConnectedNets_Best.ipynb)
 
 Q5: [PyTorch. AlexNet.](A2_PyTorch/PyTorch.ipynb). Test accuracy: 74.38%
-<br>Extra: [Simplified AlexNet](A2_PyTorch/PyTorch_2.ipynb). Test accuracy: 78.20%
+<br>Extra: [PyTorch. Simplified AlexNet.](A2_PyTorch/PyTorch_2.ipynb). Test accuracy: 78.20%
